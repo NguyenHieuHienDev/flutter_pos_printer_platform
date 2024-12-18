@@ -14,7 +14,7 @@ extern "C" {
 #endif
 
 FLUTTER_PLUGIN_EXPORT void FlutterPosPrinterPlatformPluginRegisterWithRegistrar(
-        FlutterDesktopPluginRegistrarRef registrar);
+    FlutterDesktopPluginRegistrarRef registrar);
 
 #if defined(__cplusplus)
 }  // extern "C"
